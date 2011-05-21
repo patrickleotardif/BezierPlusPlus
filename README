@@ -1,0 +1,3 @@
+Bezier++ is an experimental vector graphics program written in processing. 
+
+Instead ofusing 3rd degree bezier curves, users increase the order of the curve to suit the shape they are drawing. Thus, the concept of "smooth nodes" no longer exists.
